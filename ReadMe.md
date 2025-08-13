@@ -21,6 +21,7 @@ Each paper review (when applicable) covers:
 | Paper | Link | Focus |
 |-------|------|-------|
 | AASIST (Integrated Spectro-Temporal Graph Attention) | [Summary](./AASIST.md) | Heterogeneous spectro-temporal graph attention with stack node |
+| Comparative Study (Stability) | [Summary](./Stability.md) | Statistical analysis of model stability and result variance |
 
 ## 🔍 Goal
 Help rapid onboarding for replication, benchmarking, or extending anti-spoofing models.
