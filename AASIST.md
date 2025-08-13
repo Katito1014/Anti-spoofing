@@ -4,7 +4,12 @@
 
 Original Paper: [AASIST: Audio Anti-Spoofing Using Integrated Spectro-Temporal Graph Attention Networks](https://arxiv.org/abs/2110.01200)
 
-This page distills the core ideas for fast onboarding 
+
+
+<p align="center">
+	<img src="./aasist.png" alt="AASIST architecture: raw waveform → temporal & spectral graphs → HS-GAL blocks (heterogeneous attention + stack node) → classifier" width="720" />
+	<br><em>Figure 1. AASIST model architecture.</em>
+</p>
 
 ## ✨ What's New
 The work introduces the **Heterogeneous Stacking Graph Attention Layer (HS-GAL)** as an enhancement to the prior RawGAT-ST model. HS-GAL has two key components:
