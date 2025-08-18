@@ -22,6 +22,7 @@ Each paper review (when applicable) covers:
 |-------|------|-------|
 | AASIST (Integrated Spectro-Temporal Graph Attention) | [Summary](./AASIST.md) | Heterogeneous spectro-temporal graph attention with stack node |
 | Comparative Study (Stability) | [Summary](./Stability.md) | Statistical analysis of model stability and result variance |
+| On Model Stability as a Function of Random Seed | [Summary](./Model_Stability.md) | Robustness to random seed: ASWA & NASWA methods, |
 
 ## 🔍 Goal
 Help rapid onboarding for replication, benchmarking, or extending anti-spoofing models.

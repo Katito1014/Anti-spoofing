@@ -9,11 +9,6 @@ Original Paper: *[On Model Stability as a Function of Random Seed](#)*
 - Proposes two novel methods for improving robustness against randomness:
   - **ASWA (Aggressive Stochastic Weight Averaging)**
   - **NASWA (Norm-filtered Aggressive SWA)**
-## 🆕 What's New
-- Investigates how random seed initialization affects model output variability.
-- Proposes two novel methods for improving robustness against randomness:
-  - **ASWA (Aggressive Stochastic Weight Averaging)**
-  - **NASWA (Norm-filtered Aggressive SWA)**
 
 <p align="center">
   <img src="./aswa_algorithm.png" alt="ASWA Algorithm" width="320" style="display:inline-block; margin-right:10px;">
@@ -21,6 +16,7 @@ Original Paper: *[On Model Stability as a Function of Random Seed](#)*
   <br>
   <em>Left: ASWA Algorithm &nbsp;&nbsp;|&nbsp;&nbsp; Right: NASWA Algorithm</em>
 </p>
+
 ## 🎯 Why It Matters
 - Shows that interpretation and evaluation of models can be unreliable due to randomness from initialization.
 - The proposed methods reduce output variation and improve the stability of interpretation metrics across different seeds.
