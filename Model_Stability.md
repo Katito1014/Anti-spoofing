@@ -11,8 +11,8 @@ Original Paper: *[On Model Stability as a Function of Random Seed](#)*
   - **NASWA (Norm-filtered Aggressive SWA)**
 
 <p align="center">
-  <img src="./aswa_algorithm.png" alt="ASWA Algorithm" width="320" style="display:inline-block; margin-right:10px;">
-  <img src="./naswa_algorithm.png" alt="NASWA Algorithm" width="320" style="display:inline-block;">
+  <img src="./ASWA_algorithm.png" alt="ASWA Algorithm" width="320" style="display:inline-block; margin-right:10px;">
+  <img src="./NASWA_algorithm.png" alt="NASWA Algorithm" width="320" style="display:inline-block;">
   <br>
   <em>Left: ASWA Algorithm &nbsp;&nbsp;|&nbsp;&nbsp; Right: NASWA Algorithm</em>
 </p>
